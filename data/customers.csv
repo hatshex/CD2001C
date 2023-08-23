@@ -1,0 +1,53 @@
+id,nombre,ciudad,fecha_compra,pais
+1,Juan Pérez,Bogotá,2023-01-01,colombia
+2,Ana García,México,02-01-2023,México
+3,Miguel Álvarez,Lima,Jan 3 2023,Perú
+4,Lucía Rojas,Buenos Aires,04/01/23,ARGENTINA
+5,Juán,Sao Paulo,01/01/2022,Brasil
+6,Anna,Barcelona,01-02-2022,España
+7,Alex,New York,2022.01.03,USA
+8,Luis Guzmán,Madrid,2023-01-50,España
+9,Carlos,México City,15/08/2021,México
+10,ANDRES,Bogotá,20-07-2021,Colombia
+11,MarIa,Buenos Aires,2021.06.10,ARGENTINA
+12,Sara,Rio de Janeiro,01/01/21,Brasil
+13,John Doe,California,2023-08-01,USA
+14,Jane Smith,London,01/08/2023,UK
+15,Juan Pérez,Buenos aires,01-08-2023,argentina
+16,Maria GOMEZ,México D.F.,23 agosto 2023,México
+17,Chen Lee,Shanghai,2023/08/23,CHINA
+18,AnA López,CiuDaD dE MéxIco,2022-01-05,México
+19,Juan PÉrez,Bogotá,01/02/2023,Colombia
+20,Carlos Esteban,Lima,01-mar-2022,Perú
+21,Sofía,Buenos Aires,05-02-2021,Argentina
+22,MARÍA,Santiago,22.04.22,Chile
+23,Juan Pérez,México,23/08/2023,México
+24,Lucia Martínez,Buenos Aires,08-23-2023,Argentina
+25,John  Doe,New York,2023-08-23,United States
+26,Jane   Smith,London,23/8/2023,UK
+27,Ravi Verma,Delhi,23.08.2023,India
+28,Li Wei,Beijing,08/23/23,China
+29,Jean Dupont,Paris,23.8.23,France
+30,Sophia Müller,Berlin,23-08-2023,Germany
+31,Chidubem Okafor,Lagos,23/8/23,Nigeria
+32,Kim Joon,Seoul,2023/08/23,South Korea
+33,JoHn Smith,New York,08/01/2023,USA
+34,marie duBois,Paris,1er Fev 2023,France
+35,LUCA rossi,Rome,01.02.2023,Italy
+36,MIguel SanToS,Madrid,01-02-2023,Spain
+37,TAnaka yuki,Tokyo,2023年2月1日,Japan
+38,Li MIng,Beijing,2023/02/01,China
+39,ALICE mBaU,Nairobi,1 feb 2023,Kenya
+40,Robert van   deR MERwe,Cape Town,2023.02.01,South Africa
+41,Carlos    Mendez,Mexico City,01-02-23,Mexico
+42,patricia O'Neil,Buenos Aires,February 01 2023,Argentina
+43,John,New York,01/20/2021,USA
+44,JUAN,México,20-02-2021,Mexico
+45,jean,Paris,21.02.2021,FRANCE
+46,Anna,Moscow,2021.02.22,Russia
+47,Liu,Beijing,23/02/2021,china
+48,Johny,Toronto,24-02-2021,CANADA
+49,juan,bogotá,25.02.2021,colombia
+50,JEan,London,2021.02.26,UK
+51,anna,Sydney,27/02/2021,Australia
+52,liU,Tokyo,28-02-2021,JAPAN
